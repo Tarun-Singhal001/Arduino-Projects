@@ -44,7 +44,4 @@ void loop() {
   digitalWrite(led8,HIGH);
   delay(200);
   digitalWrite(led8,LOW);
-  digitalwrite(led9,low)
-  digit
-
 }

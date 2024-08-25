@@ -22,7 +22,7 @@ void loop(){
     delay(1000);
     // 500 Hz (0.5 second)
     tone(buzzer, 500);
-    delay(1000);
+    delay(500);
     // Stop the tone
     noTone(buzzer);
     delay(1000);
